@@ -1,0 +1,29 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtualenv
+venv/
+env/
+.venv/
+
+# Database
+db.sqlite3
+
+# Django static/collected files (if you build them locally)
+/staticfiles/
+/media/
+
+# Environment variables
+*.env
+
+# IDEs and OS
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.swp
+Thumbs.db
+.DS_Store

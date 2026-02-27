@@ -1,0 +1,24 @@
+/* ---------------------- navbar  ---------------------- */
+
+.container-fluid{
+    background-color: #00000022;
+    border-radius: 50px;
+    padding: 15px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+
+.nav-item{
+  padding-right: 25px;
+}
+
+
+.navbar-brand{
+  font-size: 30px;
+  padding-left:10px;
+}
+
+
+
+/* ---------------------- navbar-end  --------------------- */
